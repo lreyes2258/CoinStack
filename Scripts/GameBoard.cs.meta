@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 14ff3ec3aab0bbd439d95ec887c1ca25
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - pennyPrefab: {fileID: 1271691083632028834, guid: 5158382fcba6d9f4a9ee940e9fb38003, type: 3}
+  - nickelPrefab: {fileID: 1908092879950085735, guid: 45b0bdbd4708a924f81e7a36e52c63fc, type: 3}
+  - dimePrefab: {fileID: -1573934186078389004, guid: 413b7e9ce7282c3459aa3e9e7972495f, type: 3}
+  - quarterPrefab: {fileID: -3056603124499077011, guid: b113f314356195a4789c1b222f3edbde, type: 3}
+  - scoreText: {fileID: 5567215273472184163, guid: 322b95f2320de94438cc6f4e1d4e797d, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
